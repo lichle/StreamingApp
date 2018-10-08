@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStreaming</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+</resources>
